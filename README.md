@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Khanal</h1>
 <h3 align="center">An ambitious Data Analyst from Nepal</h3>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*aV_TK6pW8Ux4DqSP6ImROg.gif" alt="coding gif" width="400"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityakhanal2003&label=Profile%20views&color=0e75b6&style=flat" alt="aadityakhanal2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityakhanal2003" alt="aadityakhanal2003" /></a> </p>
@@ -16,6 +15,8 @@
 - 📫 How to reach me **khanal.aditya1122@gmail.com**
 
 - ⚡ Fun fact **I can speak in 3 languages.**
+
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*aV_TK6pW8Ux4DqSP6ImROg.gif" alt="coding gif" width="400"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
