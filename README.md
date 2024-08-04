@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Khanal</h1>
-<h3 align="center">An ambitious Data Analyst from Nepal</h3>
+<h3 align="center">Interests: AIL/ML, Data Science and Full Stack Application</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityakhanal2003&label=Profile%20views&color=0e75b6&style=flat" alt="aadityakhanal2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityakhanal2003" alt="aadityakhanal2003" /></a> </p>
