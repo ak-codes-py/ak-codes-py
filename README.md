@@ -1,36 +1,70 @@
-<h1 align="center">Hi 👋, I'm Aaditya Khanal</h1>
-<h3 align="center">Interests: AIL/ML, Data Science and Full Stack Application Development.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityakhanal2003&label=Profile%20views&color=0e75b6&style=flat" alt="aadityakhanal2003" /> </p>
+# Aaditya Khanal  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityakhanal2003" alt="aadityakhanal2003" /></a> </p>
+📧 **Email:** khanal.aditya1122@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/-khanalaaditya](https://www.linkedin.com/in/-khanalaaditya/)  
+💻 **GitHub:** [github.com/ak-codes-py](https://github.com/ak-codes-py)  
 
-- 🔭 I’m currently working on [Image Classifier](https://colab.research.google.com/drive/1mGRatmltQTxBqKte2YaCcZ-BEisZFCAW?usp=sharing)
+## 📌 About Me  
+I am a passionate **Software Engineer and Data Scientist** with expertise in **AI, full-stack development, and cloud computing**. I specialize in **building intelligent systems** that drive data-driven decisions, enhance user experiences, and optimize business operations. My work spans across **machine learning, deep learning, web development, and automation**, with a strong focus on **AI-powered applications**.
 
-- 🌱 I’m currently learning **Keras, Tensorflow and Pytorch**
+## 🎓 Education  
+**Northern Kentucky University** – *Highland Heights, KY*  
+**Bachelor of Science, Data Science (Minor: Applied Statistics)**  
+📅 *August2022 - May 2026* | **GPA:** 3.80 | *Executive and Edge Award*
 
-- 👯 I’m looking to collaborate on [Movie recommendation engine](https://colab.research.google.com/drive/1J-xHTBBJJXIrUxl1XIfvxskxci72CAF9)
+## 💼 Experience  
 
-- 💬 Ask me about **Pandas, Numpy, Seaborn, Matplotlib, Sci-kit Learn and Python**
+### **Beats by Dre** (*Remote*)  
+**Consumer Insights Data Analyst** (Sept 2024 – Oct 2023)  
+- Processed and analyzed **10,000+ product reviews** using **Python (pandas, NumPy, scikit-learn, Seaborn, NLTK)**.  
+- Implemented **sentiment analysis** and leveraged **Gemini AI** to extract actionable insights for strategic decision-making.  
 
-- 📫 How to reach me **khanal.aditya1122@gmail.com**
+### **Headstarter AI** (*Remote*)  
+**Software Engineering Fellow** (July 2024 – Aug 2024)  
+- Built **5+ AI-driven applications**, including an **AI-powered customer support chatbot, AI Flashcard Generator, and Stripe-integrated billing system**.  
+- Developed **React.js & Next.js applications**, integrating **OpenAI’s API, Stripe API, and Retrieval-Augmented Generation (RAG) using AWS**, scaling to **1000+ users**.  
 
-- ⚡ Fun fact **I can speak in 3 languages.**
+### **Human-Computer Interaction Lab (NKU)**  
+**Student Researcher** (Dec 2023 – July 2024)  
+- Conducted **behavioral data analysis** on **auction datasets** using **Python, R, SQL, and JavaScript**.  
+- Published findings at **IEEE ICT MiPro 47th Electronics Convention (Croatia)** and presented at **various research conferences**.  
 
-<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*aV_TK6pW8Ux4DqSP6ImROg.gif" alt="coding gif" width="400"></img>
+## 🛠 Skills  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aadityakhanal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadityakhanal4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/-khanalaaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya khanal" height="30" width="40" /></a>
-<a href="https://fb.com/aaditya khanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya khanal" height="30" width="40" /></a>
-</p>
+### **Programming Languages**  
+- **Python, R, Java, JavaScript, SQL, Swift**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### **Databases**  
+- **SQL Server, PostgreSQL, MySQL, Firebase**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityakhanal2003&show_icons=true&locale=en&layout=compact" alt="aadityakhanal2003" /></p>
+### **Tools & Technologies**  
+- **Data Science & ML:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, NLTK  
+- **Web Development:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Cloud & APIs:** Azure, AWS, OpenAI API, REST APIs  
+- **Development Tools:** Git, Hugging Face, Postman, Copilot  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityakhanal2003&show_icons=true&locale=en" alt="aadityakhanal2003" /></p>
+## 🚀 Projects  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakhanal2003&" alt="aadityakhanal2003" /></p>
+### **Personalized Recommender** (*Flask, Next.js, PyTorch, AWS*) – *Jan 2025*  
+- Engineered an **AI-driven personal finance advisor** that improved **savings by 15%** and enhanced **budgeting efficiency by 20%**.  
 
+### **Modern SAP** (*Python, Next.js, MongoDB, Azure*) – *May 2024*  
+- Developed an **AI-powered SAP system** with **invoice scanning, an insights dashboard, and fraud detection**, utilizing **Azure cloud security**.  
+
+### **Khutruke AI** (*Python, TensorFlow, React, Flask, Azure*) – *April 2024*  
+- Built a **MERN stack** chatbot-like **financial planning assistant** using **GPT-4 and OpenAI’s API** for personalized suggestions.  
+
+## 🎖 Leadership & Involvement  
+
+### **Vice President – College of Informatics Ambassadors (NKU)** (*May 2024 – Present*)  
+- Organized **20+ on-campus events** and led initiatives to **bridge academia and industry** through seminars and workshops.  
+
+### **Vice President – Data Science Club (NKU)** (*May 2024 – Present*)  
+- Co-founded the **NKU Data Science Club**, organized a **100+ participant hackathon**, and secured **guest speakers from AT&T**.  
+- Represented NKU at the **University of Cincinnati Data Science Symposium**, showcasing student projects and mentoring peers.  
+
+## 📜 Certifications & Awards  
+
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** (*July 2024*)  
+- **Microsoft Azure AI Fundamentals Certification** (*June 2024*)  
+- **Fidelity Hackathon – 1st Place** (*April 2024*)  
